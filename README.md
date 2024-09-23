@@ -4,6 +4,8 @@ Nesse projeto, recebi um projeto base da Alura com HTML e CSS prontos, com o obj
 
 Além disso, aprendi algumas técnicas e dicas para deixar o código mais clean e legível.
 
+![Capturar](https://github.com/user-attachments/assets/4ebc9d3b-646f-4bf4-895c-97dd37180745)
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
